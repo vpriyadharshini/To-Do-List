@@ -1,0 +1,29 @@
+.Main-Container,h1{
+text-align: center;
+
+}
+input{
+    height: 40px;
+    width: 400px;
+    font-size: 24px;
+    margin-right: 10px;
+}
+.para-styling{
+    font-size: 25px;
+}
+
+.CurrentDay{
+    background-color: #F43B86;
+    color: white;
+    text-align: center;
+    height: 50px;
+    /* margin-left: 500px;
+    margin-right: 500px; */
+    border-radius: 25px;
+    width: 100%;
+}
+
+  body{
+    background-color: #FFF8E5;
+  }
+  /* #ece4c8  */
